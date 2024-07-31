@@ -30,6 +30,5 @@
 int main(void)
 {
 	TourGraph();
-
 	return 0;
 }
