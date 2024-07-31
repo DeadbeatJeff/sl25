@@ -30,7 +30,7 @@
  * 
 *******************************************************************************/
  
-void TourGraph(void)
+int TourGraph(void)
 {
 	Matrix I, S, T;
 	ListNode *newListNodePtr = (ListNode *)NULL,
@@ -126,7 +126,7 @@ void TourGraph(void)
 		RemoveFromOutputList(&rootOutputListPtr);
 	}
 	
-	return;
+	return 0;
 }
 
 /*******************************************************************************

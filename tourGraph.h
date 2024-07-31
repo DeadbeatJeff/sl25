@@ -60,7 +60,7 @@
 	*
 	***************************************************************************/
 
-	void TourGraph(void);
+	int TourGraph(void);
 	ListNode *MakeListNode(Matrix A, char *w);
 	int IsInOutputList(ListNode *newListNodePtr, ListNode **rootOutputListPtr);
 	void InsertIntoOutputList(ListNode *newListNodePtr, ListNode 
