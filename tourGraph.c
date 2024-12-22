@@ -18,9 +18,9 @@
 *******************************************************************************/
 
 #include <stdio.h>
-#include "MatrixOps.h"
+#include "matrixOps.h"
 
-#include "TourGraph.h"
+#include "tourGraph.h"
 
 /*******************************************************************************
  * void TourGraph(void)

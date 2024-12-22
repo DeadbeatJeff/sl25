@@ -1,2 +1,2 @@
 all:
-	gcc -o sl25.exe main.c matrixOps.c tourgraph.c
+	gcc -o sl25.exe main.c matrixOps.c tourGraph.c
